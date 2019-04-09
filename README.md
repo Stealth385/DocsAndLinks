@@ -22,6 +22,15 @@
 * [Extending ISA planes](https://www.vogons.org/viewtopic.php?f=46&t=44528)
 * [Extending ISA cables](https://www.vogons.org/viewtopic.php?f=46&t=41599)
 
+## Audiosignal
+* [Direct digital synthesis in FPGA](https://www.fpga4fun.com/DDS.html)
+* [DK8PP's DDS](http://www.dk8pp.de/electronics/dds/index.html]
+  * [Oscillator](http://www.dk8pp.de/electronics/dds/oscillator.html)
+  * [Phase Accumulator](http://www.dk8pp.de/electronics/dds/accumulator.html)
+  * [Phase to Amplitude Converter](http://www.dk8pp.de/electronics/dds/p_to_a.html)
+  * [DAC](http://www.dk8pp.de/electronics/dds/dac.html)
+  * [AA filter](http://www.dk8pp.de/electronics/dds/filter.html)
+
 ## Videosignal
 * [Atari 130XE improved video](http://www.retrocomputing.net/parts/atari/130xe/docs/sv130-1.html)
 * [RGB2ALL](https://www.retrohax.net/rgb2c-s-composite-and-s-video-module/)
