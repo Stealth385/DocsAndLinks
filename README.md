@@ -2,8 +2,12 @@
 ## Power electronics
 * [Anatomy of SMPSes](https://www.hardwaresecrets.com/anatomy-of-switching-power-supplies/)
 
+## C64
+* [Video output](http://hitmen.c02.at/temp/palstuff/)
+
 ## C128
 * [index](https://commodore128.net/)
+* [C128 Z80 bug](http://dr.ea.ms/c128hardwarebug.html)
 
 ## Amiga
 * [RAM differences](https://inkoovintagecomputing.wordpress.com/2018/02/15/amiga-500-chip-ram-expansion-with-no-motherboard-modifications/)
