@@ -14,6 +14,8 @@
 
 ## Atari
 * [Upgrading my 520ST to a 4160ST](https://bytecellar.com/2015/08/08/upgrading-my-atari-520st-to-4mb-of-ram/)
+* [YM2149 STF Stereo mod](http://www.atari-forum.com/viewtopic.php?t=1627)
+* [S-Video out](http://www.atari-forum.com/viewtopic.php?p=173242#p173242)
 
 ## ISA
 * [Spectra BP-5S-RS-R40 ISA backplane](https://www.spectra.ch/en/products/ipc-components/backplanes/isa/bp-5s-rs-r40.html)
@@ -27,6 +29,7 @@
 * [Atari 1040STFM sync fix](https://www.retrohax.net/amiga-500-mods-2/)
 * [Simple SCART splitter](https://github.com/arithmaldor/SCART-Splitter)
 * [6845 CRTC](http://tinyvga.com/6845)
+* [Video circuits](http://www.epanorama.net/links/videochips.html)
 
 ## Retrohax Index
 * [A500 mods](https://www.retrohax.net/amiga-500-mods-2/)
