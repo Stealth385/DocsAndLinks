@@ -24,7 +24,7 @@
 
 ## Audiosignal
 * [Direct digital synthesis in FPGA](https://www.fpga4fun.com/DDS.html)
-* [DK8PP's DDS](http://www.dk8pp.de/electronics/dds/index.html]
+* [DK8PP's DDS](http://www.dk8pp.de/electronics/dds/index.html)
   * [Oscillator](http://www.dk8pp.de/electronics/dds/oscillator.html)
   * [Phase Accumulator](http://www.dk8pp.de/electronics/dds/accumulator.html)
   * [Phase to Amplitude Converter](http://www.dk8pp.de/electronics/dds/p_to_a.html)
@@ -39,6 +39,9 @@
 * [Simple SCART splitter](https://github.com/arithmaldor/SCART-Splitter)
 * [6845 CRTC](http://tinyvga.com/6845)
 * [Video circuits](http://www.epanorama.net/links/videochips.html)
+
+## Mouse interfaces
+* [SmallyMouse2](https://www.waitingforfriday.com/?p=827)
 
 ## Retrohax Index
 * [A500 mods](https://www.retrohax.net/amiga-500-mods-2/)
