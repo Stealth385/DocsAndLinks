@@ -26,6 +26,7 @@
 * [CPCWiki RGB2S](http://www.cpcwiki.eu/index.php/RGB_SVideo)
 * [Atari 1040STFM sync fix](https://www.retrohax.net/amiga-500-mods-2/)
 * [Simple SCART splitter](https://github.com/arithmaldor/SCART-Splitter)
+* [6845 CRTC](http://tinyvga.com/6845)
 
 ## Retrohax Index
 * [A500 mods](https://www.retrohax.net/amiga-500-mods-2/)
