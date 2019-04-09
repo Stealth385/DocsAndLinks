@@ -1,6 +1,7 @@
 # Electronics articles
 ## Power electronics
 * [Anatomy of SMPSes](https://www.hardwaresecrets.com/anatomy-of-switching-power-supplies/)
+* [MeanWell RQ-65B](https://www.meanwell.com/Upload/PDF/RQ-65/RQ-65-SPEC.PDF)
 
 ## C64
 * [Video output](http://hitmen.c02.at/temp/palstuff/)
@@ -42,6 +43,7 @@
 
 ## Mouse interfaces
 * [SmallyMouse2](https://www.waitingforfriday.com/?p=827)
+* [C64 Joystick/proportional, Micromys, Atari and Amiga modes](https://www.c64-wiki.com/wiki/Mouse)
 
 ## Retrohax Index
 * [A500 mods](https://www.retrohax.net/amiga-500-mods-2/)
