@@ -46,6 +46,7 @@
 * [SmallyMouse2](https://www.waitingforfriday.com/?p=827)
 * [C64 Joystick/proportional, Micromys, Atari and Amiga modes](https://www.c64-wiki.com/wiki/Mouse)
 * [Micromys](http://wiki.icomp.de/wiki/Micromys_V5)
+* [Amstrad](https://www.seasip.info/AmstradXT/1512tech/section1.html)
 
 ## Retrohax Index
 * [A500 mods](https://www.retrohax.net/amiga-500-mods-2/)
