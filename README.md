@@ -4,6 +4,7 @@
 * [MeanWell RQ-65B](https://www.meanwell.com/Upload/PDF/RQ-65/RQ-65-SPEC.PDF)
 
 ## C64
+* [Clocks](https://dustlayer.com/c64-architecture/2013/5/7/hardware-basics-part-1-tick-tock-know-your-clock)
 * [Video output](http://hitmen.c02.at/temp/palstuff/)
 
 ## C128
