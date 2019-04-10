@@ -41,6 +41,8 @@
 * [Simple SCART splitter](https://github.com/arithmaldor/SCART-Splitter)
 * [6845 CRTC](http://tinyvga.com/6845)
 * [Video circuits](http://www.epanorama.net/links/videochips.html)
+* [RetroRGB guide](https://www.retrorgb.com/rgbguide.html)
+* [RetroRGB advanced](https://www.retrorgb.com/rgbadvanced.html)
 
 ## Mouse interfaces
 * [SmallyMouse2](https://www.waitingforfriday.com/?p=827)
