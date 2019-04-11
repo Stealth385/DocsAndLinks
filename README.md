@@ -22,6 +22,9 @@
 * [YM2149 STF Stereo mod](http://www.atari-forum.com/viewtopic.php?t=1627)
 * [S-Video out](http://www.atari-forum.com/viewtopic.php?p=173242#p173242)
 
+## PC XT
+* [Sergei Kiselev's XT components](http://www.malinov.com/Home/sergeys-projects)
+
 ## ISA
 * [Spectra BP-5S-RS-R40 ISA backplane](https://www.spectra.ch/en/products/ipc-components/backplanes/isa/bp-5s-rs-r40.html)
 * [Extending ISA planes](https://www.vogons.org/viewtopic.php?f=46&t=44528)
