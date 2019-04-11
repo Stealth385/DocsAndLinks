@@ -38,6 +38,7 @@
   * [Phase to Amplitude Converter](http://www.dk8pp.de/electronics/dds/p_to_a.html)
   * [DAC](http://www.dk8pp.de/electronics/dds/dac.html)
   * [AA filter](http://www.dk8pp.de/electronics/dds/filter.html)
+* [De Blauwe Schicht SID](http://www.deblauweschicht.nl/tinkering/mos6581_1.html)
 
 ## Videosignal
 * [Atari 130XE improved video](http://www.retrocomputing.net/parts/atari/130xe/docs/sv130-1.html)
