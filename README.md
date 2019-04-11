@@ -1,4 +1,4 @@
-# Electronics articles
+# Docs and Links
 ## Power electronics
 * [Anatomy of SMPSes](https://www.hardwaresecrets.com/anatomy-of-switching-power-supplies/)
 * [MeanWell RQ-65B](https://www.meanwell.com/Upload/PDF/RQ-65/RQ-65-SPEC.PDF)
@@ -10,6 +10,9 @@
 ## C128
 * [index](https://commodore128.net/)
 * [C128 Z80 bug](http://dr.ea.ms/c128hardwarebug.html)
+
+## CBM-FD
+* [1541-parallel](https://ist.uwaterloo.ca/~schepers/1541par.html)
 
 ## Amiga
 * [RAM differences](https://inkoovintagecomputing.wordpress.com/2018/02/15/amiga-500-chip-ram-expansion-with-no-motherboard-modifications/)
