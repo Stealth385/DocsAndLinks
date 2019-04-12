@@ -24,6 +24,12 @@
 
 ## PC XT
 * [Sergei Kiselev's XT components](http://www.malinov.com/Home/sergeys-projects)
+* [Playtool PSU connectors](http://www.playtool.com/pages/psuconnectors/connectors.html#oldpc)
+* [XT PSU connector](https://www.molex.com/molex/products/datasheet.jsp?part=active/0903310010_CRIMP_HOUSINGS.xml)
+* [XT style connector](https://www.computerhope.com/jargon/p/p8.htm)
+* [XT style connector 2](http://www.evercase.co.uk/index.php?route=information/information&information_id=9)
+* [AT/LPX power](https://www.tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-7.html)
+* [AMP connector 6P SL156](https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/770849-6/A24115-ND/298515)
 
 ## ISA
 * [Spectra BP-5S-RS-R40 ISA backplane](https://www.spectra.ch/en/products/ipc-components/backplanes/isa/bp-5s-rs-r40.html)
@@ -64,5 +70,6 @@
 * [Fabien Sanglard's site](http://fabiensanglard.net/)
 * [FS' Q2 engine analysis](http://fabiensanglard.net/quake2/index.php)
 * [Tone filter from NieR:Automata](http://themaister.net/blog/2019/02/23/recreating-the-tone-filter-from-nierautomata/)
+* [TBOOX](https://github.com/tboox)
 
 > Written with [StackEdit](https://stackedit.io/).
