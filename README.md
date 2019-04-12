@@ -63,5 +63,6 @@
 ## C
 * [Fabien Sanglard's site](http://fabiensanglard.net/)
 * [FS' Q2 engine analysis](http://fabiensanglard.net/quake2/index.php)
+* [Tone filter from NieR:Automata](http://themaister.net/blog/2019/02/23/recreating-the-tone-filter-from-nierautomata/)
 
 > Written with [StackEdit](https://stackedit.io/).
