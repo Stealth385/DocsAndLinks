@@ -71,5 +71,7 @@
 * [FS' Q2 engine analysis](http://fabiensanglard.net/quake2/index.php)
 * [Tone filter from NieR:Automata](http://themaister.net/blog/2019/02/23/recreating-the-tone-filter-from-nierautomata/)
 * [TBOOX](https://github.com/tboox)
+* [Cello C objectifiation](https://github.com/orangeduck/Cello)
+* [Using fat pointers](http://libcello.org/learn/a-fat-pointer-library)
 
 > Written with [StackEdit](https://stackedit.io/).
