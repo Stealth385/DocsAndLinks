@@ -73,5 +73,6 @@
 * [TBOOX](https://github.com/tboox)
 * [Cello C objectifiation](https://github.com/orangeduck/Cello)
 * [Using fat pointers](http://libcello.org/learn/a-fat-pointer-library)
-
+* [42sh - a demo shell project](https://github.com/mittsh/42sh)
+    * [42sh mmalloc, a malloc manager](https://github.com/mittsh/42sh/blob/master/src/mmalloc/mmalloc.h)
 > Written with [StackEdit](https://stackedit.io/).
