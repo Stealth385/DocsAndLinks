@@ -6,6 +6,8 @@
 ## C64
 * [Clocks](https://dustlayer.com/c64-architecture/2013/5/7/hardware-basics-part-1-tick-tock-know-your-clock)
 * [Video output](http://hitmen.c02.at/temp/palstuff/)
+* [C64 troubleshoot](https://retrocomputerverzamelaar.nl/commodore-64-problems/)
+* [C64 pictorial fault guide](https://derbian.webs.com/c64diag/)
 
 ## C128
 * [index](https://commodore128.net/)
@@ -62,6 +64,7 @@
 * [C64 Joystick/proportional, Micromys, Atari and Amiga modes](https://www.c64-wiki.com/wiki/Mouse)
 * [Micromys](http://wiki.icomp.de/wiki/Micromys_V5)
 * [Amstrad](https://www.seasip.info/AmstradXT/1512tech/section1.html)
+* [Serial-to-64](http://www.zimmers.net/anonftp/pub/cbm/documents/projects/interfaces/mouse/Mouse.html)
 
 ## Retrohax Index
 * [A500 mods](https://www.retrohax.net/amiga-500-mods-2/)
@@ -75,4 +78,5 @@
 * [Using fat pointers](http://libcello.org/learn/a-fat-pointer-library)
 * [42sh - a demo shell project](https://github.com/mittsh/42sh)
     * [42sh mmalloc, a malloc manager](https://github.com/mittsh/42sh/blob/master/src/mmalloc/mmalloc.h)
+    
 > Written with [StackEdit](https://stackedit.io/).
