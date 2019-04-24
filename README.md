@@ -8,6 +8,7 @@
 * [Video output](http://hitmen.c02.at/temp/palstuff/)
 * [C64 troubleshoot](https://retrocomputerverzamelaar.nl/commodore-64-problems/)
 * [C64 pictorial fault guide](https://derbian.webs.com/c64diag/)
+* [Ilker's projects](http://cbm.ficicilar.name.tr/)
 
 ## C128
 * [index](https://commodore128.net/)
