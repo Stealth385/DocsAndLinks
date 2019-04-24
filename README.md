@@ -59,6 +59,9 @@
 * [Video circuits](http://www.epanorama.net/links/videochips.html)
 * [RetroRGB guide](https://www.retrorgb.com/rgbguide.html)
 * [RetroRGB advanced](https://www.retrorgb.com/rgbadvanced.html)
+* [Simple sync splitter](https://www.electronicdesign.com/displays/rgb-video-sync-separator-interfaces-vga-monitor-using-basic-components)
+* [Sync separator TI LMH1981](http://www.ti.com/product/LMH1981?qgpn=lmh1981#)
+* [Engineering CSYNC](https://www.hdretrovision.com/blog/2018/10/22/engineering-csync-part-1-setting-the-stage)
 
 ## Mouse interfaces
 * [SmallyMouse2](https://www.waitingforfriday.com/?p=827)
