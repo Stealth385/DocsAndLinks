@@ -16,6 +16,7 @@
 
 ## CBM-FD
 * [1541-parallel](https://ist.uwaterloo.ca/~schepers/1541par.html)
+* [1541-II JP vs CN](https://www.facebook.com/groups/commodoresixtyfour/permalink/10155914284637172/)
 
 ## Amiga
 * [RAM differences](https://inkoovintagecomputing.wordpress.com/2018/02/15/amiga-500-chip-ram-expansion-with-no-motherboard-modifications/)
