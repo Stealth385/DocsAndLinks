@@ -28,7 +28,7 @@
 
 ## Amiga
 * [RAM differences](https://inkoovintagecomputing.wordpress.com/2018/02/15/amiga-500-chip-ram-expansion-with-no-motherboard-modifications/)
-
+* [SukkoPera's A500 4/8MB FastRAM expansion](https://github.com/SukkoPera/OpenAmiga500FastRamExpansion)
 ## Atari
 * [Upgrading my 520ST to a 4160ST](https://bytecellar.com/2015/08/08/upgrading-my-atari-520st-to-4mb-of-ram/)
 * [YM2149 STF Stereo mod](http://www.atari-forum.com/viewtopic.php?t=1627)
