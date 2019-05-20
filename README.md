@@ -9,6 +9,14 @@
 * [C64 troubleshoot](https://retrocomputerverzamelaar.nl/commodore-64-problems/)
 * [C64 pictorial fault guide](https://derbian.webs.com/c64diag/)
 * [Ilker's projects](http://cbm.ficicilar.name.tr/)
+* Modulator replacement
+  * [Chrominance leak](https://www.lemon64.com/forum/viewtopic.php?t=40663)
+  * [Simple S-Video Mod](https://amazingdiy.wordpress.com/2013/02/08/c64-s-video-mod/?fbclid=IwAR277Ju9a5mNhbhCUdgdky5Z18tQTWvc0x1MwoYdXPg1jkoj4uKes38oA7Q)
+  * [HF-Mod rauswerfen!](https://www.forum64.de/index.php?thread/44092-hf-modulator-rauswerfen-c64c/)
+  * [ByeByeModulator 250469](https://github.com/r1me/ByeByeModulator)
+  * [Bwack's Stripefix](https://github.com/bwack/C64-Stripefix)
+  * [C64 FB discussion](https://www.facebook.com/groups/commodoresixtyfour/permalink/10155950382262172/)
+* [Turbo Rascal](http://www.lemonspawn.com/gallery/)
 
 ## C128
 * [index](https://commodore128.net/)
@@ -70,6 +78,9 @@
 * [Micromys](http://wiki.icomp.de/wiki/Micromys_V5)
 * [Amstrad](https://www.seasip.info/AmstradXT/1512tech/section1.html)
 * [Serial-to-64](http://www.zimmers.net/anonftp/pub/cbm/documents/projects/interfaces/mouse/Mouse.html)
+
+## Joystick interfaces
+* [Unijoysticle2](https://retro.moe/unijoysticle2/)
 
 ## Retrohax Index
 * [A500 mods](https://www.retrohax.net/amiga-500-mods-2/)
