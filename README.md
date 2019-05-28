@@ -1,4 +1,8 @@
 # Docs and Links
+
+## FPGA
+* [Cheapest FPGA](https://old.reddit.com/r/FPGA/comments/4ui3z3/list_of_cheapest_fpga_development_boards/)
+
 ## Power electronics
 * [Anatomy of SMPSes](https://www.hardwaresecrets.com/anatomy-of-switching-power-supplies/)
 * [MeanWell RQ-65B](https://www.meanwell.com/Upload/PDF/RQ-65/RQ-65-SPEC.PDF)
