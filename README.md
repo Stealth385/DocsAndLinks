@@ -2,6 +2,7 @@
 
 ## FPGA
 * [Cheapest FPGA](https://old.reddit.com/r/FPGA/comments/4ui3z3/list_of_cheapest_fpga_development_boards/)
+* [FleaFPGA](https://fleasystems.com/fleaFPGA_Ohm.html)
 
 ## Power electronics
 * [Anatomy of SMPSes](https://www.hardwaresecrets.com/anatomy-of-switching-power-supplies/)
@@ -35,6 +36,8 @@
 * [RAM differences](https://inkoovintagecomputing.wordpress.com/2018/02/15/amiga-500-chip-ram-expansion-with-no-motherboard-modifications/)
 * [SukkoPera's A500 4/8MB FastRAM expansion](https://github.com/SukkoPera/OpenAmiga500FastRamExpansion)
 * [PeteAU's free ChipRAM expansion](http://eab.abime.net/showthread.php?t=85395)
+* [A500 + 2MB mod troubleshoot](http://eab.abime.net/showthread.php?t=83121)
+* [Pyramid Eureka 2MB](http://eab.abime.net/showthread.php?t=49965)
 
 ## Atari
 * [Upgrading my 520ST to a 4160ST](https://bytecellar.com/2015/08/08/upgrading-my-atari-520st-to-4mb-of-ram/)
