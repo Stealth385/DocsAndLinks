@@ -16,13 +16,14 @@
 * [Ilker's projects](http://cbm.ficicilar.name.tr/)
 * Modulator replacement
   * [Chrominance leak](https://www.lemon64.com/forum/viewtopic.php?t=40663)
-  * [Simple S-Video Mod](https://amazingdiy.wordpress.com/2013/02/08/c64-s-video-mod/?fbclid=IwAR277Ju9a5mNhbhCUdgdky5Z18tQTWvc0x1MwoYdXPg1jkoj4uKes38oA7Q)
+  * [Simple S-Video Mod](https://amazingdiy.wordpress.com/2013/02/08/c64-s-video-mod/)
   * [HF-Mod rauswerfen!](https://www.forum64.de/index.php?thread/44092-hf-modulator-rauswerfen-c64c/)
   * [ByeByeModulator 250469](https://github.com/r1me/ByeByeModulator)
   * [Bwack's Stripefix](https://github.com/bwack/C64-Stripefix)
   * [C64 FB discussion](https://www.facebook.com/groups/commodoresixtyfour/permalink/10155950382262172/)
 * [Turbo Rascal](http://www.lemonspawn.com/gallery/)
-
+* Joystick
+  * [Passive autofire](https://wiki.arcadeotaku.com/w/Passive_Autofire)
 ## C128
 * [index](https://commodore128.net/)
 * [C128 Z80 bug](http://dr.ea.ms/c128hardwarebug.html)
