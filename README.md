@@ -39,6 +39,7 @@
 * [PeteAU's free ChipRAM expansion](http://eab.abime.net/showthread.php?t=85395)
 * [A500 + 2MB mod troubleshoot](http://eab.abime.net/showthread.php?t=83121)
 * [Pyramid Eureka 2MB](http://eab.abime.net/showthread.php?t=49965)
+* [kr239's A500 8MB FastRAM](https://github.com/kr239/A500-8MB-FastRAM)
 
 ## Atari
 * [Upgrading my 520ST to a 4160ST](https://bytecellar.com/2015/08/08/upgrading-my-atari-520st-to-4mb-of-ram/)
