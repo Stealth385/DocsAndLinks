@@ -78,6 +78,7 @@
 * [Simple SCART splitter](https://github.com/arithmaldor/SCART-Splitter)
 * [6845 CRTC](http://tinyvga.com/6845)
 * [Video circuits](http://www.epanorama.net/links/videochips.html)
+* [Video chips](http://www.epanorama.net/links/videocircuits.html)
 * [RetroRGB guide](https://www.retrorgb.com/rgbguide.html)
 * [RetroRGB advanced](https://www.retrorgb.com/rgbadvanced.html)
 * [Simple sync splitter](https://www.electronicdesign.com/displays/rgb-video-sync-separator-interfaces-vga-monitor-using-basic-components)
