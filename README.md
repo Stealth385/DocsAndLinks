@@ -24,6 +24,12 @@
 * [Turbo Rascal](http://www.lemonspawn.com/gallery/)
 * Joystick
   * [Passive autofire](https://wiki.arcadeotaku.com/w/Passive_Autofire)
+* ICs
+  * [List of MOS/CSG chips](http://www.zimmers.net/anonftp/pub/cbm/documents/chipdata/csg.chips.info)
+  * [MOS 6256 CIA datasheet](http://archive.6502.org/datasheets/mos_6526_cia_recreated.pdf)
+  * [MOS 8520 CIA](http://www.zimmers.net/anonftp/pub/cbm/documents/chipdata/8520_datasheet.pdf)
+  * [MOS 6551 ACIA](http://www.princeton.edu/~mae412/HANDOUTS/Datasheets/6551_acia.pdf)
+  * [MOS 65C52 DACIA](http://archive.6502.org/datasheets/rockwell_r65c52_dacia.pdf)
 ## C128
 * [index](https://commodore128.net/)
 * [C128 Z80 bug](http://dr.ea.ms/c128hardwarebug.html)
