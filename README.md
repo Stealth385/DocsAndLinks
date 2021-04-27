@@ -3,6 +3,7 @@
 ## FPGA
 * [Cheapest FPGA](https://old.reddit.com/r/FPGA/comments/4ui3z3/list_of_cheapest_fpga_development_boards/)
 * [FleaFPGA](https://fleasystems.com/fleaFPGA_Ohm.html)
+* [Learn FPGA on a budget](https://github.com/BrunoLevy/learn-fpga)
 
 ## Power electronics
 * [Anatomy of SMPSes](https://www.hardwaresecrets.com/anatomy-of-switching-power-supplies/)
