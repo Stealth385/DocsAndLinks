@@ -46,6 +46,7 @@
 * [A500 + 2MB mod troubleshoot](http://eab.abime.net/showthread.php?t=83121)
 * [Pyramid Eureka 2MB](http://eab.abime.net/showthread.php?t=49965)
 * [kr239's A500 8MB FastRAM](https://github.com/kr239/A500-8MB-FastRAM)
+* [PiStorm Accelerator](https://github.com/captain-amygdala/pistorm)
 
 ## Atari
 * [Upgrading my 520ST to a 4160ST](https://bytecellar.com/2015/08/08/upgrading-my-atari-520st-to-4mb-of-ram/)
@@ -60,6 +61,7 @@
 * [XT style connector 2](http://www.evercase.co.uk/index.php?route=information/information&information_id=9)
 * [AT/LPX power](https://www.tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-7.html)
 * [AMP connector 6P SL156](https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/770849-6/A24115-ND/298515)
+* [Mr Slug's Chipset encyclopedia](http://66.113.161.23/~mR_Slug/chipset/chipsets-v1.00.pl?big=2043,%5C*82C495SLC%20&1=26321,3846&2=3851#2043)
 
 ## ISA
 * [Spectra BP-5S-RS-R40 ISA backplane](https://www.spectra.ch/en/products/ipc-components/backplanes/isa/bp-5s-rs-r40.html)
