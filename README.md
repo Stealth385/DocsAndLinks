@@ -63,6 +63,7 @@
 * [AT/LPX power](https://www.tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-7.html)
 * [AMP connector 6P SL156](https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/770849-6/A24115-ND/298515)
 * [Mr Slug's Chipset encyclopedia](http://66.113.161.23/~mR_Slug/chipset/chipsets-v1.00.pl?big=2043,%5C*82C495SLC%20&1=26321,3846&2=3851#2043)
+* [Ralf Brown's Interrupt List](https://www.cs.cmu.edu/~ralf/files.html)
 
 ## ISA
 * [Spectra BP-5S-RS-R40 ISA backplane](https://www.spectra.ch/en/products/ipc-components/backplanes/isa/bp-5s-rs-r40.html)
