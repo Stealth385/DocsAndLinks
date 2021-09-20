@@ -118,5 +118,6 @@
 * [42sh - a demo shell project](https://github.com/mittsh/42sh)
     * [42sh mmalloc, a malloc manager](https://github.com/mittsh/42sh/blob/master/src/mmalloc/mmalloc.h)
 * [sgc - semi-generic C ADSes](https://gitlab.com/ado0/sgc)
- 
+* [Improving the beginner's PID](http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/)
+
 > Written with [StackEdit](https://stackedit.io/).
