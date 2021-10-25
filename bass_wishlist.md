@@ -15,11 +15,14 @@
 
 # Pickups
 
-https://roswellpickups.com/product/swb/
-https://roswellpickups.com/product/rkb-cr-b/
-https://roswellpickups.com/product/rkb-cr-n/
-https://roswellpickups.com/product/pba6/
-https://roswellpickups.com/product/ma6/
-https://roswellpickups.com/product/ma6-cd/
-https://nordstrandaudio.com/collections/6-string-jazz-bass-pickups
-https://nordstrandaudio.com/collections/6-string-soapbar-bass-pickups
+* Rawk
+** https://roswellpickups.com/product/rkb-cr-b/
+** https://roswellpickups.com/product/rkb-cr-n/
+* Deep
+** https://roswellpickups.com/product/swb/
+* Six
+* https://roswellpickups.com/product/pba6/
+* https://roswellpickups.com/product/ma6/
+* https://roswellpickups.com/product/ma6-cd/
+* https://nordstrandaudio.com/collections/6-string-jazz-bass-pickups
+* https://nordstrandaudio.com/collections/6-string-soapbar-bass-pickups
