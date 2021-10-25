@@ -2,16 +2,16 @@
 
 ## Jazz-like
 
-Epiphone Toby Deluxe IV (act)
-Sire Marcus Miller V3-4 RW (pas)
-Squier Contemporary Jazz (pas)
+* Epiphone Toby Deluxe IV (act)
+* Sire Marcus Miller V3-4 RW (pas)
+* Squier Contemporary Jazz (pas)
 
 ## Other
 
-Harley Benton RB-414BK (pas) (rawken)
-Harley Benton TB-7 SBK (pas) (t-bird)
-Peavey T-40 (pas)
-Rickenbacker 4003/S5 (pas)
+* Harley Benton RB-414BK (pas) (rawken)
+* Harley Benton TB-7 SBK (pas) (t-bird)
+* Peavey T-40 (pas)
+* Rickenbacker 4003/S5 (pas)
 
 # Pickups
 
