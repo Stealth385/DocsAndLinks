@@ -11,3 +11,7 @@
 * [Modular Frame (with Cast Screws)](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_ModularFrame_C%22%3A%222%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bimpure%22%2C%22altRecipes%22%3A%5B%22Recipe_Alternate_Screw_C%22%5D%7D)
 * [Steel Beam, Steel Pipe](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_SteelPipe_C%22%3A%2220%22%2C%22Desc_SteelPlate_C%22%3A%227.5%22%2C%22maxBeltSpeed%22%3A%22120%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bnormal%22%2C%22altRecipes%22%3A%5B%22Recipe_Alternate_Screw_C%22%5D%7D)
 * [Steel Beam, Steel Pipe Mk2 (with Solid Steel Ingot)](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_SteelPipe_C%22%3A%2220%22%2C%22Desc_SteelPlate_C%22%3A%2215%22%2C%22maxBeltSpeed%22%3A%22120%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bnormal%22%2C%22altRecipes%22%3A%5B%22Recipe_Alternate_IngotSteel_1_C%22%5D%7D)
+
+# L3
+
+* [Plastic, Rubber and Residual Coke](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_Plastic_C%22%3A%2240%22%2C%22Desc_Rubber_C%22%3A%2240%22%2C%22maxBeltSpeed%22%3A%22120%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bimpure%22%2C%22oilExtraction%22%3A%22Build_OilPump_C%3Bimpure%22%7D)
