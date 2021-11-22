@@ -15,3 +15,7 @@
 # L3
 
 * [Plastic, Rubber and Residual Coke](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_Plastic_C%22%3A%2240%22%2C%22Desc_Rubber_C%22%3A%2240%22%2C%22maxBeltSpeed%22%3A%22120%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bimpure%22%2C%22oilExtraction%22%3A%22Build_OilPump_C%3Bimpure%22%7D)
+* [Fuel, Packaged Fuel, Resin and RFO](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_LiquidFuel_C%22%3A%2272%22%2C%22Desc_Fuel_C%22%3A%2240%22%2C%22oilExtraction%22%3A%22Build_OilPump_C%3Bpure%22%7D)
+    * Connect Fuel directly to 6 FG
+    * [Resin to Residual Rubber and Plastic](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_Plastic_C%22%3A%2216%22%2C%22Desc_Rubber_C%22%3A%2218%22%2C%22input%22%3A%7B%22Desc_PolymerResin_C%22%3A%2284%22%7D%2C%22oilExtraction%22%3A%22Build_OilPump_C%3Bpure%22%2C%22altRecipes%22%3A%5B%22Recipe_ResidualPlastic_C%22%2C%22Recipe_ResidualRubber_C%22%5D%7D)
+    * Connect RFO to Refinery to single FG at 83,334 MW
