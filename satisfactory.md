@@ -1,3 +1,7 @@
+# General
+* [Best alternate recipes](https://www.satisfactorytips.com/guides/best-alternate-recipes-satisfactory-update-four)
+* [SFT Layouts](https://www.satisfactorytips.com/layouts)
+
 # L1
 
 * [Iron Rods, Screws and Plates (with Cast Screws)](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_IronRod_C%22%3A%2215%22%2C%22Desc_IronScrew_C%22%3A%2250%22%2C%22Desc_IronPlate_C%22%3A%2220%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bimpure%22%2C%22altRecipes%22%3A%5B%22Recipe_Alternate_Screw_C%22%5D%7D)
@@ -24,3 +28,4 @@
  * Connect HOR:
     * if one chain, 10 m3 to Refinery (6,6667 m3) to single FG at 83,334 MW (55.5558%)
     * if two chains, 20 m3 to Refinery (13,3333 m3) to single FG at 166,68 MW (111,1112%)
+* [AI Limiter, Quickwire](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_HighSpeedWire_C%22%3A%2220%22%2C%22Desc_CircuitBoardHighSpeed_C%22%3A%225%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bpure%22%7D)
