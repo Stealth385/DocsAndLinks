@@ -29,4 +29,4 @@
     * if one chain, 10 m3 to Refinery (6,6667 m3) to single FG at 83,334 MW (55.5558%)
     * if two chains, 20 m3 to Refinery (13,3333 m3) to single FG at 166,68 MW (111,1112%)
 * [AI Limiter, Quickwire](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_HighSpeedWire_C%22%3A%2220%22%2C%22Desc_CircuitBoardHighSpeed_C%22%3A%225%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bpure%22%7D)
-* [Diiluted packaged fuel](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_Fuel_C%22%3A%2260%22%2C%22altRecipes%22%3A%5B%22Recipe_Alternate_DilutedPackagedFuel_C%22%5D%7D)
+* [Packaged Fuel + overflow Plastic](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_Fuel_C%22%3A%2260%22%2C%22altRecipes%22%3A%5B%22Recipe_Alternate_DilutedPackagedFuel_C%22%5D%7D)
