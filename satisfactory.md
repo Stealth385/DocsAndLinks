@@ -31,4 +31,7 @@
 * [AI Limiter, Quickwire](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_HighSpeedWire_C%22%3A%2220%22%2C%22Desc_CircuitBoardHighSpeed_C%22%3A%225%22%2C%22oreExtraction%22%3A%22Build_MinerMk1_C%3Bpure%22%7D)
 * [Packaged Fuel + overflow Plastic](https://satisfactory-calculator.com/en/production-planner/index/index/json/%7B%22Desc_Fuel_C%22%3A%2260%22%2C%22altRecipes%22%3A%5B%22Recipe_Alternate_DilutedPackagedFuel_C%22%5D%7D)
 
+#L4
+
 * [High-speed Connector (Si Circuit Board, Si HSC](https://www.satisfactorytools.com/production?share=5RTNq1AssosbZaHdmCIw)
+* [Crystal Oscillator (Stitched Fe Plate, Fe Wire)](https://www.satisfactorytools.com/production?share=Nqt0IUhzhv7vpVmMjo1f)
