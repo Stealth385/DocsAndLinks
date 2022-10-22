@@ -12,6 +12,8 @@ https://www.reddit.com/r/embedded/comments/xi5ur1/freertos_timers/
 
 https://www.reddit.com/r/embedded/comments/xfk9sa/rtos_breaking_software_into_tasks/
 
+https://www.reddit.com/r/embedded/comments/y7hgh0/google_announce_secure_rustbased_os_for_embedded/isv8z8h/
+
 ---
 
 https://www.reddit.com/r/C_Programming/comments/s99jej/a_new_design_pattern_for_implementing_capturing/
