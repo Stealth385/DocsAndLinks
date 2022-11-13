@@ -14,11 +14,21 @@ https://www.reddit.com/r/embedded/comments/xfk9sa/rtos_breaking_software_into_ta
 
 https://www.reddit.com/r/embedded/comments/y7hgh0/google_announce_secure_rustbased_os_for_embedded/isv8z8h/
 
+https://www.reddit.com/r/embedded/comments/yhd48r/reasons_to_not_use_an_rtos_version_of_a_kernel/
+
+https://www.reddit.com/r/embedded/comments/yetj3k/modern_c_in_embedded_development_strong_types_and/
+
+https://www.reddit.com/r/embedded/comments/yd2ocj/is_it_me_or_usb_is_really_that_confusing/
+
+https://www.reddit.com/r/embedded/comments/yczlwv/from_your_point_of_view_will_c_language_dominate/
+
 ---
 
 https://www.reddit.com/r/C_Programming/comments/s99jej/a_new_design_pattern_for_implementing_capturing/
 
 https://www.reddit.com/r/C_Programming/comments/xt6n5t/what_is_something_you_would_have_changed_about/
+
+https://www.reddit.com/r/C_Programming/comments/yd5m5b/hi_those_who_enjoyed_my_tutorial_on_polymorphism/
 
 ---
 
