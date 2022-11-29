@@ -46,6 +46,10 @@ https://blog.stratifylabs.dev/device/2020-12-29-Filesystem-Inspired-Abstraction-
 
 ---
 
+https://tmewett.com/c-tips/
+
+---
+
 https://diyelectromusic.wordpress.com/2022/10/04/getting-started-with-the-raspberry-pi-pico-c-c-sdk-and-tinyusb-midi/
 
 https://shuhaowu.com/blog/2022/01-linux-rt-appdev-part1.html
