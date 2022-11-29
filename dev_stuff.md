@@ -30,6 +30,8 @@ https://www.reddit.com/r/C_Programming/comments/xt6n5t/what_is_something_you_wou
 
 https://www.reddit.com/r/C_Programming/comments/yd5m5b/hi_those_who_enjoyed_my_tutorial_on_polymorphism/
 
+https://www.reddit.com/r/C_Programming/comments/z3saqk/what_are_the_problems_of_the_argument_c_is_safe/ixntitd/ <= C-flags
+
 ---
 
 https://blog.stratifylabs.dev/tags/cpp/
