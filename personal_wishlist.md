@@ -1,8 +1,6 @@
 # Modern
 
-* GPU: nV 40x0 or AMD 7x00
 * Monitor: 1080p or 1400p (92 ppi), 8b or 10b, Freesync (~144 Hz)
-* Gamepad: split throttle (XBox One?) 
 
 # Retro
 
