@@ -18,7 +18,8 @@
     * `3.0i (EFI w/cat - C30LE ) -    A2 - 116 kW (156 PS) at 5800 rpm, 225 Nm at 4200 rpm`
 * Gearboxes
   * Getrag 264 4-speed - 20E, 22i, 25E, 28H, 30H, early 30E
+    * 3.83, 2.20, 1.40, 1.00, -3.46
   * Getrag 240 5-speed - 25i
     * 3.72, 2.02, 1.32, 1.00, 0.81, -4.10
   * Getrag 265 5-speed - 30E, 30i
-    * 
+    * 3.83, 2.20, 1.40, 1.00, 0.81, -3.46
