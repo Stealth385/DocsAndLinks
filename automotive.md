@@ -33,6 +33,7 @@ Constant slope characteristic:
 
 # Mix
 
+```
 Input:
     Key assembly
     Thermals
@@ -101,3 +102,4 @@ Tables
         wideband reas back lambda
         λ target map: - checks against wideband
         injector map
+```
