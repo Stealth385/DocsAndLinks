@@ -30,3 +30,74 @@ Sharp drop characteristic:
 Constant slope characteristic:
 
 `AFR = Voltage * 2 + 10`
+
+# Mix
+
+Input:
+    Key assembly
+    Thermals
+        IAT
+        Water
+        Oil
+        EGT (on diesel)
+    Pressures
+        Fuel
+        Oil
+        Water/Ethanol
+    Gasses
+        Intake flow
+            v: AFM
+                vane-type, analog, linear resistor
+                Karman vortex-type, analog, optocoupler
+            v: MAF - measures mass
+                hot-wire - digital out to warm up, analog, atmosensor
+                hot-film - differential hot-wire
+            v: MAP - measures density
+                in the intake manifold
+            most cars: MAF+MAP
+        Exhaust oxygen
+            v: narrowband (rich/OK/lean)
+            v: Wideband O2 (actual λ)
+            most cars have dual:
+                upstream (after exhaust manifold)
+                downstream (after catalytic converter)
+    Position
+        Throttle
+            v: variable resistor
+            v: hall-effect
+        Crank
+        Cam
+            Count:
+                1 (OHV, CIH, SOHC)
+                2 (DOHC, VR-DOHC, V-OHC)
+                4 (V-DOHC)
+            v: variable reluctance
+            v: hall-effect
+    Acoustic
+        Knock
+
+Output
+    Throttle
+    Fans
+        Radiator
+    Fuel
+        Injectors 1-8
+    Ignition
+        Coils 1-8
+        v: individual CnP/CoP
+        v: wasted spark
+    Needles
+        RPM
+            v: digital
+                LPF?
+            v: analog
+
+    VVT?
+    VVL?
+
+Tables
+        VE map (volumetric efficiency) - reads VE, injects according to that
+            max 30% offset
+        wideband reas back lambda
+        λ target map: - checks against wideband
+        injector map
